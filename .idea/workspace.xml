@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e6ee68-2c34-40a0-87ce-85a87540039c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex04.cpp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/bin/ex03" afterPath="$PROJECT_DIR$/bin/ex03" />
       <change beforePath="$PROJECT_DIR$/src/ex03.cpp" afterPath="$PROJECT_DIR$/src/ex03.cpp" />
     </list>
@@ -29,8 +31,18 @@
       <file leaf-file-name="ex03.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex03.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex04.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex04.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,6 +61,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/ex01.cpp" />
         <option value="$PROJECT_DIR$/src/ex02.cpp" />
+        <option value="$PROJECT_DIR$/src/ex04.cpp" />
         <option value="$PROJECT_DIR$/src/ex03.cpp" />
       </list>
     </option>
@@ -144,12 +157,12 @@
       <workItem from="1514457768676" duration="3912000" />
       <workItem from="1514640577175" duration="1122000" />
       <workItem from="1514673503691" duration="724000" />
-      <workItem from="1514926388713" duration="4974000" />
+      <workItem from="1514926388713" duration="5830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23287000" />
+    <option name="totallyTimeSpent" value="24143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,10 +301,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex04.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex03.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
