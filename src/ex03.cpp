@@ -7,7 +7,6 @@
 #include <vector>
 #include <stdlib.h>
 #include <time.h>
-#define MAX_POS 10
 #define MAX_NUM 1000
 
 using namespace std;
