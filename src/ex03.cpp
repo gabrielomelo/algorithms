@@ -20,17 +20,21 @@ int main() {
     for (int i = 0; i < MAX_POS; i++)
         arr.push_back(rand() % MAX_NUM + 1); //Está com o +1 porque o modulo retorna o lim até o MAX_NUM
 
+    for (int i = 0; i < arr.size(); i++)
+        cout << arr[i] <<endl;
+
     //Ordenando o array
-    for (int j = 1, i; arr.size() > j; j++) {
-        int key = arr[j];
+    for (int j = 1, i, key; arr.size() > j; j++) {
+        key = arr[j];
         i = j - 1;
-        while(i > 0 && arr[i] > key){
+        while(arr[i] > key){
             arr[i + 1] = arr[i];
             i = i - 1;
         }
         arr[i + 1] = key;
     }
 
+    cout << "array ordenado" << endl;
     for (int k = 0; arr.size() > k; k++)
         cout << arr[k] << endl;
 

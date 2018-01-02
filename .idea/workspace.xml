@@ -10,12 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e6ee68-2c34-40a0-87ce-85a87540039c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ex03.cpp" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change beforePath="$PROJECT_DIR$/src/ex01.cpp" afterPath="$PROJECT_DIR$/src/ex01.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/ex02.cpp" afterPath="$PROJECT_DIR$/src/ex02.cpp" />
+      <change beforePath="$PROJECT_DIR$/bin/ex03" afterPath="$PROJECT_DIR$/bin/ex03" />
+      <change beforePath="$PROJECT_DIR$/src/ex03.cpp" afterPath="$PROJECT_DIR$/src/ex03.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="ex03.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex03.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -96,6 +92,11 @@
             <path>
               <item name="c-algorithms" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="c-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="c-algorithms" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="c-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,12 +144,12 @@
       <workItem from="1514457768676" duration="3912000" />
       <workItem from="1514640577175" duration="1122000" />
       <workItem from="1514673503691" duration="724000" />
-      <workItem from="1514926388713" duration="3465000" />
+      <workItem from="1514926388713" duration="4974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21778000" />
+    <option name="totallyTimeSpent" value="23287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,8 +290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex03.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
         </state>
       </provider>
