@@ -1,9 +1,14 @@
-Olá.
+# Algorithms
 
-Este repositório abriga os algoritmos propostos, ou até mesmo desenvolvidos utilizando os conceitos
-da Biblia do Cormen (Introduction to algorithms).
-Deixo esse respositório como ajuda para quem estiver tentando realizar os exercicios do livro.
+Author: Gabriel Melo. License: GPL v3.
 
-Espero que gostem!
+This repository contains a series of algorithms, most of it implemented in C++.
+Feel free to use, but read the license before.
 
-Gabriel Melo.
+## Repository Structure
+
+    * neural-nets -> Neural Nets, without training, just the algorithm.
+    * graphs -> Graph related algorithms.
+    * sorting -> array/vector sorting algorithms.
+
+Regards!
